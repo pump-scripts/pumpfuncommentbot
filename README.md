@@ -1,6 +1,6 @@
 # PumpFun Comment Bot 🤖
 
-_THIS IS OUTDATED, [JOIN OUR TELEGRAM](t.me/pumpscripts) TO GET LATEST COMMENT BOT<br>_
+_THIS IS OUTDATED, [JOIN OUR TELEGRAM](https://t.me/pumpscripts) TO GET LATEST COMMENT BOT<br>_
 
 The PumpFun Comment Bot is designed to automate and enhance your engagement with Pump.Fun tokens. Whether you need to comment with text, images, or both, this bot leverages proxy servers to avoid bans and maintain consistent activity. Here’s a detailed overview of its features and usage.
 
@@ -18,7 +18,7 @@ Automatically comment on King of the Hill (KOTH) tokens using text or images, en
 We welcome contributions! Open an issue or submit a pull request for ideas, suggestions, or bug reports.
 
 **Contact** <br>
-For questions or support, join us on Telegram: [Telegram](t.me/pumpscripts)
+For questions or support, join us on Telegram: [Telegram](https://t.me/pumpscripts)
 
 Happy botting! 🎉
 
